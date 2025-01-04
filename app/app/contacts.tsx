@@ -30,7 +30,7 @@ const Contact = () => {
   return (
     <View style={styles.container}>
       <Animated.Text style={[styles.text, animatedStyle]}>
-        ❤️ From Shashank
+        ❤️ From Shashank ! ehehehehehehe
       </Animated.Text>
     </View>
   );
